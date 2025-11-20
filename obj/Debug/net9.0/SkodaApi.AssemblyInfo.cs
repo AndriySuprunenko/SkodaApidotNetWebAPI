@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SkodaApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65e79721f24264abeec75602776b1af0bf1c8c9a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4b74bc49e3d28c539deebcd9a23600dc374f8ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("SkodaApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SkodaApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
